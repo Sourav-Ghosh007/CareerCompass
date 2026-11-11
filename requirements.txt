@@ -1,0 +1,83 @@
+
+# ==========================================
+# 1. FastAPI and Backend
+# ==========================================
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+email-validator
+
+# ==========================================
+# 2. Database and Data Processing
+# ==========================================
+sqlalchemy
+pyodbc
+pandas
+numpy
+openpyxl
+
+# ==========================================
+# 3. Azure Services
+# ==========================================
+azure-identity
+azure-storage-blob
+azure-search-documents
+azure-monitor-opentelemetry
+
+# ==========================================
+# 4. LLM and LangChain
+# ==========================================
+openai
+langchain
+langchain-openai
+langchain-community
+
+# ==========================================
+# 5. Vector Databases
+# ==========================================
+chromadb
+langchain-chroma
+pinecone
+
+# ==========================================
+# 6. Agentic AI
+# ==========================================
+crewai
+
+# ==========================================
+# 7. LLM Evaluation
+# ==========================================
+langsmith
+deepeval
+ragas
+
+# ==========================================
+# 8. Observability
+# ==========================================
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation-fastapi
+
+# ==========================================
+# 9. PDF and Document Processing
+# ==========================================
+pypdf
+reportlab
+python-docx
+
+# ==========================================
+# 10. Configuration and Utilities
+# ==========================================
+python-dotenv
+httpx
+tenacity
+
+# ==========================================
+# 11. Testing
+# ==========================================
+pytest
+pytest-cov
+pytest-asyncio
